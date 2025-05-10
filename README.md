@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satavisha Dutta</h1>
-<h3 align="center">A passionate AI-ML enthusaist & frontend developer</h3>
+<h3 align="center">A passionate Data Science enthusaist & Frontend Developer</h3>
 
 - 🌱 I’m currently learning **Java-Spring boot, javaScript**
 
