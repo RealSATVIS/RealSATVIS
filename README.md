@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ayush Mukherjee</h1>
+<h1 align="center">Hi 👋, I'm Satavisha Dutta</h1>
 <h3 align="center">A passionate AI-ML enthusaist & frontend developer</h3>
 
-- 🌱 I’m currently learning **Java-Spring boot, python-PyTorch**
+- 🌱 I’m currently learning **Java-Spring boot, javaScript**
 
 
 <p align="left">
