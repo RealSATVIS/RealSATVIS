@@ -1,9 +1,9 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Ayush Mukherjee</h1>
+<h1 align="center">Hi 👋, I'm Satavisha Dutta</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="center">A passionate AI-ML enthusaist & frontend developer</h3>
+<h3 align="center">A passionate MERN-stack developer</h3>
 
-- 🌱 I’m currently learning **Java-Spring boot, Vue and Angular frameworks**
+- 🌱 I’m currently learning **Next, Vue and Angular frameworks**
 
 
 <p align="left">
